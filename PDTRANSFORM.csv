@@ -1,0 +1,107 @@
+﻿Project_ID,Project_Name,RFI_ID,Status,Created_Date,Due_Date,Closed_Date,Assigned_To,Priority,Description,Days_Open,Cost_Impact,Location,Approval_Status,Last_Updated
+P001,Downtown Office Tower,RFI-001,Open,2026-01-15,2026-02-15,,John Smith,High,Structural review needed for floor 12,161,"$45,000",Site A - Downtown,Approved,2026-06-20
+P001,Downtown Office Tower,RFI-001,Open,2026-01-15,2026-02-15,,John Smith,High,Structural review needed for floor 12,161,"$45,000",Site A - Downtown,Approved,2026-06-20
+project-2,Harbor Bridge Expansion,rfi002,CLOSED,2026-02-10,2026-03-01,2026-02-28,J Smith,Medium,Material specs,18,"$12,500",Harbor District,approved,2026-03-01
+P003,Riverside Condos,RFI-3,Pending,2026-03-05,2026-01-20,,Sarah Johnson,Hgh,HVAC clarification needed,112,"$8,900",Riverside,Pending,2026-06-15
+4,Metro Station Upgrade,RFI-004,open,2026-04-01,2026-05-01,,mike wilson,Low,,85,,Metro Line B,APPROVED,2026-06-10
+P001,Downtown Office Towerr,RFI-005,Open,2026-01-20,2026-02-20,,John Smith,High,Elevator shaft dimensions,156,"$67,000",Site A - Downtown,Approved,2026-06-18
+project-2,Harbor Bridge Expanson,rfi-006,closed,2026-02-15,2026-03-15,2026-02-10,j smith,med,Foundation query,-5,"$15,000",Harbor District,Rejected,2026-02-10
+P003,River Side Condos,7,OPEN,2026-03-10,,,S Johnson,Medium,Plumbing specs needed,107,"$5,600",riverside,pending,2026-06-01
+P008,Airport Terminal C,RFI-008,Open,2026-04-15,2026-05-30,,David Brown,High,Security checkpoint layout,71,"$125,000",Airport Zone C,Approved,2026-06-22
+9,School Renovation,rfi009,,2026-05-01,2026-06-01,,Lisa Chen,,Classroom modifications,55,"$3,200",Lincoln Elementary,,2026-06-15
+P010,Hospital Wing Addition,RFI-010,Open,2026-01-25,2026-03-01,,John Smith,High,Critical - patient room layout,151,"$890,000",Memorial Hospital,Approved,2026-06-24
+project-11,Shopping Mall Phase 2,RFI011,Pending,2026-02-20,2026-04-01,,Sarah Johnson,Medium,Escalator placement,125,"$45,000",Westside Mall,Pending,2026-05-30
+P012,Parking Garage,rfi-12,CLOSED,2026-03-15,2026-04-15,2026-04-10,Mike Wilson,Low,Lighting specs,26,"$8,500",Downtown Lot B,approved,2026-04-10
+P001,Downtown Office Tower,RFI-013,Open,2026-04-01,2026-05-15,,j smith,Hihg,Facade material change request,85,"$234,000",Site A - downtown,Pending,2026-06-20
+14,Water Treatment Plant,RFI-014,open,2026-04-10,2026-05-10,,David Brown,High,,76,"$156,000",Industrial Park,APPROVED,2026-06-18
+P015,Convention Center,15,Pending,2026-01-05,2026-02-28,,Lisa Chen,Medium,Audio system requirements,171,"$67,800",Convention District,Pending,2026-06-01
+project-2,Harbor Bridge Expansion,RFI-016,Open,2026-05-01,2026-06-15,,J. Smith,med,Cable tension specs,55,"$89,000",harbor district,Approved,2026-06-23
+P003,Riverside Condos,rfi017,CLOSED,2026-02-01,2026-03-15,2026-03-10,sarah johnson,Low,Paint color approval,37,"$2,300",Riverside,Approved,2026-03-10
+P018,Fire Station #7,RFI-018,Open,2026-03-20,2026-04-30,,Mike Wilson,High,Apparatus bay dimensions,97,"$34,500",District 7,Approved,2026-06-15
+19,Library Expansion,rfi-019,Pending,2026-04-25,2026-06-01,,John Smith,Medium,Shelving layout,61,"$12,000",Central Library,pending,2026-06-10
+P020,City Hall Renovation,RFI-020,Open,2026-02-14,2026-04-01,,David Brown,High,Council chamber acoustics,131,"$78,000",City Center,Approved,2026-06-20
+P001,Downtown Office tower,RFI-021,closed,2026-05-10,2026-06-10,2026-06-05,John Smith,Low,Signage placement,26,"$4,500",Site A - Downtown,Approved,2026-06-05
+project-22,Residential Complex Alpha,22,OPEN,2026-01-30,2026-03-15,,S. Johnson,High,Foundation concerns - URGENT,146,"$445,000",Alpha Site,Approved,2026-06-24
+P023,Tech Campus Building B,RFI-023,Open,2026-03-01,2026-04-15,,Lisa Chen,Medium,Server room cooling,116,"$89,000",Tech Park,Pending,2026-06-18
+24,Warehouse Distribution,rfi024,Pending,2026-04-05,,,mike wilson,,Loading dock height,81,"$23,000",Industrial Zone,PENDING,2026-06-01
+P025,Sports Arena,RFI-025,Open,2026-02-25,2026-04-10,,David Brown,Hgh,Scoreboard mounting,120,"$156,000",Sports Complex,Approved,2026-06-22
+P003,Riverside Condos,RFI-026,open,2026-05-15,2026-06-30,,Sarah Johnson,Medium,Balcony railing specs,41,"$18,500",Riverside,Pending,2026-06-20
+project-2,Harbor Bridge expansion,rfi-027,CLOSED,2026-03-10,2026-04-20,2026-04-18,J Smith,High,Traffic control plan,39,"$34,000",Harbor District,approved,2026-04-18
+P028,Senior Living Center,RFI-028,Open,2026-04-20,2026-05-25,,John Smith,High,Accessibility compliance,66,"$45,000",Sunset Village,Approved,2026-06-15
+29,Office Park Phase 3,29,Pending,2026-01-10,2026-02-28,,Lisa Chen,med,Parking allocation,166,"$12,000",Business Park,Pending,2026-05-30
+P030,Museum Annex,RFI-030,Open,2026-02-05,2026-03-20,,David Brown,Medium,Display case specs,140,"$67,000",Cultural District,Approved,2026-06-18
+P001,Downtown Office Tower,rfi031,OPEN,2026-05-20,2026-07-01,,j. smith,High,Emergency stairwell width,36,"$89,000",Site A - Downtown,Pending,2026-06-24
+project-32,Retail Strip Center,RFI-032,closed,2026-03-25,2026-05-01,2026-04-28,Sarah Johnson,Low,Storefront glazing,34,"$23,500",Main Street,Approved,2026-04-28
+P033,Data Center,RFI-033,Open,2026-04-12,2026-05-20,,Mike Wilson,High,Power redundancy,74,"$567,000",Tech Park,APPROVED,2026-06-22
+34,Community Pool,rfi-034,Pending,2026-05-05,2026-06-20,,Lisa Chen,Medium,Filtration system,51,"$78,000",Recreation Center,Pending,2026-06-15
+P035,Hotel Tower,35,Open,2026-01-18,2026-03-01,,David Brown,Hihg,Guest room layout changes,158,"$234,000",Tourist District,Approved,2026-06-20
+P003,riverside condos,RFI-036,CLOSED,2026-02-28,2026-04-15,2026-02-20,s johnson,Medium,Landscaping plan,-8,"$15,600",Riverside,Approved,2026-02-20
+project-2,Harbor Bridge Expansion,rfi037,Open,2026-05-25,2026-07-10,,J Smith,High,Pedestrian walkway width,31,"$145,000",harbor District,Pending,2026-06-23
+P038,Restaurant Row,RFI-038,Pending,2026-03-15,2026-05-01,,John Smith,Low,Outdoor seating area,102,"$12,000",Dining District,pending,2026-06-01
+39,Police Headquarters,RFI-039,Open,2026-04-08,2026-05-15,,Mike Wilson,High,Evidence storage layout,78,"$89,000",Government Center,Approved,2026-06-18
+P040,University Science Building,RFI-040,Open,2026-02-12,2026-04-01,,Sarah Johnson,High,Lab ventilation requirements,133,"$234,000",University Campus,Approved,2026-06-24
+P001,Downtown Office Tower,rfi-041,Pending,2026-05-30,2026-07-15,,John Smith,Medium,Tenant improvement specs,26,"$56,000",Site A - Downtown,Pending,2026-06-22
+project-42,Assisted Living Facility,RFI-042,closed,2026-01-22,2026-03-10,2026-03-05,Lisa Chen,Medium,Nurse call system,42,"$34,500",Care Village,approved,2026-03-05
+P043,Mixed Use Development,43,OPEN,2026-03-08,2026-04-25,,David Brown,High,Retail/residential separation,109,"$178,000",Urban Core,Approved,2026-06-20
+44,Courthouse Annex,RFI-044,Open,2026-04-18,2026-06-01,,mike wilson,High,Courtroom security,68,"$123,000",Justice Center,APPROVED,2026-06-15
+P045,Brewery Facility,rfi045,Pending,2026-05-08,2026-06-25,,John Smith,,Tank installation specs,48,"$89,000",Industrial Park,,2026-06-18
+P003,Riverside Condos,RFI-046,Open,2026-02-18,2026-04-05,,Sarah Johnson,med,Pool equipment room,127,"$45,000",Riverside,Pending,2026-06-10
+project-2,Harbor Bridge Expansin,rfi-047,CLOSED,2026-04-02,2026-05-20,2026-05-15,J. Smith,High,Lighting fixtures,43,"$67,000",Harbor District,Approved,2026-05-15
+P048,Childcare Center,RFI-048,Open,2026-03-22,2026-05-10,,Lisa Chen,Medium,Playground surface material,95,"$23,000",Family Services,Approved,2026-06-20
+49,Fitness Center,49,Pending,2026-04-28,2026-06-15,,David Brown,Low,Equipment layout,58,"$15,000",Recreation Complex,pending,2026-06-08
+P050,Medical Office Building,RFI-050,Open,2026-01-28,2026-03-15,,Mike Wilson,High,X-ray room shielding,148,"$156,000",Medical Campus,Approved,2026-06-24
+P001,Downtown office Tower,rfi051,OPEN,2026-06-01,2026-07-20,,john smith,High,Rooftop HVAC placement,24,"$78,000",Site A - Downtown,Pending,2026-06-22
+project-52,Warehouse Expansion,RFI-052,closed,2026-02-08,2026-03-25,2026-03-20,Sarah Johnson,Low,Racking system,40,"$34,000",Distribution Center,approved,2026-03-20
+P053,Bank Branch,RFI-053,Open,2026-03-30,2026-05-15,,Lisa Chen,Medium,Vault specifications,87,"$189,000",Financial District,Approved,2026-06-18
+54,Pet Hospital,rfi-054,Pending,2026-04-22,,,David Brown,Medium,Kennel ventilation,64,"$45,000",Veterinary Plaza,PENDING,2026-06-10
+P055,Apartment Complex,55,Open,2026-05-12,2026-06-30,,John Smith,Hgh,Parking garage ventilation,44,"$67,000",Residential Zone B,Approved,2026-06-20
+P003,Riverside Condos,RFI-056,CLOSED,2026-01-12,2026-02-28,2026-02-25,s. johnson,High,Structural beam placement,44,"$234,000",Riverside,Approved,2026-02-25
+project-2,Harbor Bridge Expansion,rfi057,Open,2026-06-05,2026-07-25,,J Smith,High,Expansion joint details,20,"$123,000",Harbor District,Pending,2026-06-23
+P058,Church Renovation,RFI-058,Pending,2026-03-18,2026-05-05,,Mike Wilson,Medium,Stained glass restoration,99,"$89,000",Historic District,Pending,2026-06-15
+59,Auto Dealership,RFI-059,Open,2026-04-15,2026-06-01,,Lisa Chen,Low,Service bay layout,71,"$34,500",Auto Mile,approved,2026-06-18
+P060,Call Center,RFI-060,Open,2026-02-22,2026-04-10,,David Brown,Medium,Workstation layout,123,"$23,000",Business Park,Approved,2026-06-20
+P001,Downtown Office Tower,rfi-061,Pending,2026-06-10,2026-07-30,,John Smith,High,Lobby redesign,15,"$156,000",Site A - Downtown,Pending,2026-06-24
+project-62,Grocery Store,62,CLOSED,2026-03-05,2026-04-20,2026-04-15,Sarah Johnson,Low,Refrigeration placement,41,"$78,000",Retail Center,Approved,2026-04-15
+P063,Movie Theater,RFI-063,Open,2026-04-08,2026-05-25,,Mike Wilson,Medium,Projection room specs,78,"$67,000",Entertainment District,APPROVED,2026-06-18
+64,Urgent Care Clinic,rfi064,Open,2026-05-18,2026-07-05,,Lisa Chen,High,Waiting area capacity,38,"$34,000",Medical Plaza,Approved,2026-06-22
+P065,Daycare Facility,RFI-065,Pending,2026-01-08,2026-02-25,,David Brown,med,Nap room layout,168,"$12,000",Family Center,pending,2026-06-01
+P003,RiverSide Condos,rfi-066,Open,2026-06-15,2026-08-01,,Sarah Johnson,High,Final inspection checklist,10,$0,Riverside,Pending,2026-06-24
+project-2,Harbor Bridge Expansion,RFI-067,CLOSED,2026-02-28,2026-04-15,2026-04-10,j smith,High,Drainage system,41,"$89,000",Harbor District,approved,2026-04-10
+P068,Nursing Home Addition,RFI-068,Open,2026-03-12,2026-04-30,,John Smith,High,Memory care unit layout,105,"$234,000",Senior Services,Approved,2026-06-20
+69,Fast Food Restaurant,69,Pending,2026-04-25,2026-06-10,,Mike Wilson,Low,Drive-thru configuration,61,"$45,000",Restaurant Row,PENDING,2026-06-15
+P070,Art Gallery,RFI-070,Open,2026-02-18,2026-04-05,,Lisa Chen,Medium,Gallery lighting,127,"$56,000",Arts District,Approved,2026-06-18
+P001,Downtown Office Tower,rfi071,OPEN,2026-06-18,2026-08-05,,John Smith,High,Final punch list items,7,"$23,000",Site A - Downtown,Pending,2026-06-24
+project-72,Industrial Kitchen,RFI-072,closed,2026-03-28,2026-05-15,2026-05-10,David Brown,Medium,Hood ventilation,43,"$67,000",Food Processing,approved,2026-05-10
+P073,Self Storage Facility,RFI-073,Open,2026-04-02,2026-05-20,,Sarah Johnson,Low,Climate control units,84,"$89,000",Storage Park,Approved,2026-06-20
+74,Gas Station,rfi-074,Pending,2026-05-22,2026-07-10,,mike wilson,,Fuel tank placement,34,"$156,000",Highway 101,,2026-06-22
+P075,Hair Salon,75,Open,2026-01-15,2026-03-01,,Lisa Chen,Low,Plumbing for stations,161,"$12,000",Retail Plaza,Approved,2026-06-15
+P003,Riverside Condos,RFI-076,CLOSED,2026-04-10,2026-05-28,2026-04-01,S Johnson,Medium,Final walkthrough items,-9,"$8,500",Riverside,Approved,2026-04-01
+project-2,Harbor Bridge Expansion,rfi077,Open,2026-06-20,2026-08-10,,J. Smith,Hgh,Final structural review,5,"$345,000",Harbor District,Pending,2026-06-24
+P078,Coffee Shop,RFI-078,Pending,2026-03-08,2026-04-25,,David Brown,Low,Espresso machine electrical,109,"$5,600",Main Street,pending,2026-06-10
+79,Dental Office,RFI-079,Open,2026-04-30,2026-06-15,,John Smith,Medium,X-ray room compliance,56,"$34,000",Medical Building,Approved,2026-06-18
+P080,Veterinary Clinic,RFI-080,Open,2026-02-25,2026-04-12,,Mike Wilson,Medium,Surgery room specs,120,"$78,000",Pet Care Center,Approved,2026-06-22
+P001,downtown Office Tower,rfi-081,closed,2026-01-05,2026-02-20,2026-02-15,john smith,High,Initial foundation review,41,"$567,000",Site A - Downtown,approved,2026-02-15
+project-82,Laundromat,82,OPEN,2026-03-20,2026-05-08,,Sarah Johnson,Low,Drainage requirements,97,"$23,000",Strip Mall,Approved,2026-06-20
+P083,Ice Cream Shop,RFI-083,Pending,2026-04-15,2026-06-02,,Lisa Chen,Low,Freezer placement,71,"$8,900",Beach Boardwalk,PENDING,2026-06-15
+84,Print Shop,rfi084,Open,2026-05-28,2026-07-15,,David Brown,Medium,Large format printer space,28,"$15,000",Business Center,Approved,2026-06-24
+P085,Pharmacy,RFI-085,Open,2026-01-20,2026-03-08,,Mike Wilson,High,Controlled substance storage,156,"$45,000",Medical Plaza,Approved,2026-06-18
+P003,Riverside Condos,rfi-086,CLOSED,2026-05-05,2026-06-22,2026-06-18,sarah johnson,Medium,Amenity center finishes,44,"$34,500",Riverside,approved,2026-06-18
+project-2,Harbor bridge Expansion,RFI-087,Open,2026-02-05,2026-03-25,,J Smith,High,Safety barrier installation,140,"$189,000",Harbor District,Approved,2026-06-20
+P088,Music Studio,RFI-088,Pending,2026-03-15,2026-05-01,,John Smith,med,Soundproofing specs,102,"$67,000",Arts District,Pending,2026-06-10
+89,Florist Shop,89,Open,2026-04-20,2026-06-08,,Lisa Chen,Low,Cooler requirements,66,"$12,000",Garden Center,Approved,2026-06-15
+P090,Escape Room,RFI-090,Open,2026-02-28,2026-04-18,,David Brown,Medium,Room partition specs,117,"$23,000",Entertainment Zone,Approved,2026-06-22
+P001,Downtown Office Tower,rfi091,OPEN,2026-06-22,2026-08-12,,John Smith,High,Certificate of occupancy items,3,"$15,000",Site A - Downtown,Pending,2026-06-24
+project-92,Tattoo Parlor,RFI-092,closed,2026-03-25,2026-05-12,2026-05-08,Mike Wilson,Low,Sterilization area,44,"$8,500",Downtown Strip,approved,2026-05-08
+P093,Yoga Studio,93,Pending,2026-04-12,2026-06-01,,Sarah Johnson,Low,Heated floor system,74,"$34,000",Wellness Center,PENDING,2026-06-18
+94,Juice Bar,rfi-094,Open,2026-05-15,2026-07-02,,lisa chen,Medium,Commercial blender electrical,41,"$5,600",Health Hub,Approved,2026-06-20
+P095,Martial Arts Dojo,RFI-095,Open,2026-01-25,2026-03-15,,David Brown,Medium,Padded floor specs,151,"$18,500",Sports Center,Approved,2026-06-15
+P003,Riverside Condos,rfi096,Open,2026-06-08,2026-07-28,,S. Johnson,High,Final certificate items,17,"$45,000",Riverside,Pending,2026-06-24
+project-2,Harbor Bridge Expansion,RFI-097,CLOSED,2026-04-28,2026-06-15,2026-06-10,j. smith,High,Load testing results,43,"$234,000",Harbor District,Approved,2026-06-10
+P098,Bowling Alley,RFI-098,Pending,2026-03-10,2026-04-28,,Mike Wilson,med,Lane installation,107,"$156,000",Recreation Zone,pending,2026-06-08
+99,Pet Grooming,99,Open,2026-04-25,2026-06-12,,John Smith,Low,Tub drainage,61,"$8,900",Pet Plaza,Approved,2026-06-18
+P100,Bakery,RFI-100,Open,2026-05-02,2026-06-20,,Sarah Johnson,Medium,Oven ventilation hood,54,"$23,000",Food Court,Approved,2026-06-22
+P001,Downtown Office Tower,RFI-101,null,2026-02-10,2026-03-28,,John Smith,High,Misc review,135,"$9,999,999",Site A - Downtown,Approved,2026-06-20
+project-102,,rfi102,Open,2026-03-18,2026-05-05,,,Medium,,99,"$45,000",,,2026-06-15
+P103,Mystery Project,103,PENDING,,2026-07-01,,Unknown Person,Low,TBD,,$0,TBD Location,Pending,
+P003,Riverside Condos,RFI-104,Open,2025-12-15,2026-01-30,,Sarah Johnson,Hihg,Early planning item,192,"-$5,000",Riverside,Approved,2026-06-18
+project-2,Harbor Bridge Expansion,rfi-105,CLOSED,2026-05-20,2026-07-08,2026-07-05,J Smith,High,Final closeout,46,"$12,000",Harbor District,approved,2026-07-05
